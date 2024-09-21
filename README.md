@@ -15,4 +15,4 @@ I'm trying my best to be good programmer!
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-808080?style=plastic&logo=Telegram&logoColor=00BFFF
-)](@Slava478)
+)](https://t.me/Slava478)
