@@ -1,1 +1,1 @@
-![Header](https://github.com/Verper1/Verper1/blob/main/assets/speed-run2.gif.)
+![Header](https://github.com/Verper1/Verper1/blob/main/assets/speed-run2.gif)
