@@ -1,5 +1,7 @@
 ![Header](https://github.com/Verper1/Verper1/blob/main/assets/speed-run2.gif) 
-
+^
+|
+It's me, when im programming)
 ## About me
 I'm trying my best to be good programmer!
 
