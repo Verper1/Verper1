@@ -3,7 +3,7 @@
 ## About me
 I'm trying my best to be good programmer!
 
-### Languages and tools
+## Languages and tools
 ![Flutter](https://img.shields.io/badge/Python-808080?style=plastic&logo=Python&logoColor=4169E1
 )
 ![Django](https://img.shields.io/badge/Django-808080?style=plastic&logo=Django&logoColor=40E0D0
@@ -12,3 +12,7 @@ I'm trying my best to be good programmer!
 )
 ![SQLite](https://img.shields.io/badge/SQLite-808080?style=plastic&logo=SQLite&logoColor=E0FFFF
 )
+
+## Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-808080?style=plastic&logo=Telegram&logoColor=00BFFF
+)](@Slava478)
